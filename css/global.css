@@ -100,7 +100,10 @@ dt {
 	clear: both;
 }
 .lof-slidecontent{
-	width: 100%;
+	width: 950px
+}
+#gray{
+	background-color:#999;
 }
 #contents {
 	padding-left: 1em;
